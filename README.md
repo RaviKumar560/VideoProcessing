@@ -1,3 +1,2 @@
-React+Springboot Project 
-frontend in Main Branch
-Backend in Backend Branch
+React+Springboot Project for Analysing the progress of video watch time and progress
+
